@@ -1,0 +1,3 @@
+.form-style{
+    @apply w-full rounded placeholder:text-mutedText focus:border-primaryColor focus:ring-primaryColor
+}
